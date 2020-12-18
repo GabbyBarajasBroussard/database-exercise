@@ -25,4 +25,4 @@ SELECT * FROM employees
 		AND
 		hire_date LIKE '199%-%%-%%'
 		ORDER BY hire_date
-		LIMIT 5 OFFSET 50;
+		LIMIT 5 OFFSET 45;
